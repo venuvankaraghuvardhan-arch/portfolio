@@ -230,4 +230,4 @@ MIT — Feel free to fork and customise. If you use this as inspiration, a GitHu
 
 ---
 
-*"No student in the world should have a portfolio like mine."* — Raghu Vardhan
+*"Click on the live link"* — Raghu Vardhan
